@@ -58,4 +58,6 @@ You can also run it from the command line with this format: `osuMissAnalyzer.exe
 
 The AutoHotKey script lets you view your most recent replay.
 
-The way it works is that after you complete a map, if you have the script running, you can hit Alt+R and it'll open that replay. Make sure the script file is in the same directory as the OsuMissAnalyzer.exe.
+Make sure you have configured both the options.cfg of OsuMissAnalyzer.exe as well as the script itself as described at the top of the script.
+
+The way it works is that after you complete a map, if you have the script running, you can hit your preconfigured ToggleMissAnalyzer key and it'll open that replay.
